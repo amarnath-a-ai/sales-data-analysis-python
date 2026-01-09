@@ -77,13 +77,6 @@ Each sales record contains the following fields:
 - **`week2_sales_analysis_output.csv`**
   - Contains the final processed dataset with calculated total sales
 
----
-
-## 🧠 Business Insights
-- Electronics generate the highest revenue due to higher unit prices
-- Clothing and accessories contribute steady sales volume
-- Monthly sales show variation based on order frequency
-- Balanced demand across multiple categories reduces business risk
 
 ---
 
